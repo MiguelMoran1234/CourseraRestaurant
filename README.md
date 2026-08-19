@@ -22,7 +22,7 @@
 								<h1> David Chu's China Bistro </h1>
 							</a>
 							<p>
-								<img src="images/star-k-logo.png" alt="Kosher certification">
+								<img src="images/star-k.png" alt="Kosher certification">
 								<span> Kosher Certification </span>
 							</p>
 						</div>
