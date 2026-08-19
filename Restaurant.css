@@ -10,8 +10,8 @@ body {
 	border: 0;
 }
 #logo-img {
-	background: url('logo.png') no-repeat;
-	width: 150px;
-	height: 150px;
+	background: url("logo.png") no-repeat;
+	width: 173px;
+	height: 161px;
 	margin: 10px 15px 10px 0;
 }
